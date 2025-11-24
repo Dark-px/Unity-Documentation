@@ -18,7 +18,7 @@ body {
 }
 
 ul.l li {
-  padding: 0 20px 4px 0;
+  padding: 0 22px 6px 0;
 }
 
 ul.l li:before {
@@ -65,7 +65,7 @@ div.sidebar {
 
 div.sidebar-wrap {
     border-right: 0;
-    border-left: #e6e6e6 1px solid;
+    border-left: #dee2e6 1px solid;
 }
 
 div.content-wrap {
